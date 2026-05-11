@@ -6,3 +6,5 @@ Kianmhz/GooseRelayVPN
 ThisIsDara/mhr-cfw-go
 # 4. No filter – keep all assets from the release
 ircfspace/teleMirror
+# 5. No filter – keep all assets from the release
+amirshaker000/netlify-relay/
